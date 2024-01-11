@@ -1,0 +1,5 @@
+1. Pizza Preferences.csv - Top Attributes Selected For Austin
+2. pizza_austin - Scraped reviews for entire Austin
+3. pizza_reviews - Scraped reviews for 6 cities in US
+4. sampled_reviews - Combined file for all 6 cities having 5k reviews sampled at random 
+5. review_words - Word frequency file for 6 cities in US
